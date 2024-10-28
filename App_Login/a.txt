@@ -1,0 +1,15 @@
+New Teacher - http://127.0.0.1:8000/auth/newteacher/
+New Student - http://127.0.0.1:8000/auth/newstudent/
+
+
+
+update Teacher - http://127.0.0.1:8000/auth/teacherupdate/<user>/
+update Student - http://127.0.0.1:8000/auth/studentupdate/<user>/
+
+
+
+
+
+
+quiz -
+question -
